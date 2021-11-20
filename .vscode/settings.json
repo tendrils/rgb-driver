@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "pico.h": "c",
+        "platform.h": "c",
+        "types.h": "c",
+        "config.h": "c",
+        "config_autogen.h": "c"
+    },
+    "cmake.generator": "NMake Makefiles",
+    "cmake.configureSettings": {
+        "PICO_SDK_PATH": "../../pico-sdk",
+        "LIGHT_SDK_PATH": "../../light",
+        "LIGHT_BOARD_ID": "rpi_pico"
+    }
+}

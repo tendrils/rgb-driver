@@ -1,0 +1,35 @@
+CMakeFiles\rgb-driver.dir\C_\workspaces\embedded\projects\light\module\mod_display_gui\src\paint.c.obj: \
+ C:\workspaces\embedded\projects\light\module\mod_display_gui\src\paint.c \
+ C:\workspaces\embedded\projects\light\module\mod_light_core\include/light.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\stdint.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\machine\_default_types.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\features.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\_newlib_version.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\_intsup.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\_stdint.h \
+ C:\workspaces\embedded\projects\light\module\mod_light_core\src/conf_light.h \
+ C:\workspaces\embedded\projects\light\module\mod_light_core\include/light/log.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
+ C:\workspaces\embedded\projects\light\board\rpi_pico\include/light_board.h \
+ C:\workspaces\embedded\projects\light\module\mod_display_gui\include/gui.h \
+ C:\workspaces\embedded\projects\light\module\mod_display_fonts\include/fonts.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\stdlib.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\machine\ieeefp.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\_ansi.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\newlib.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\config.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\reent.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\_ansi.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\_types.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\machine\_types.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\lock.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\cdefs.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\machine\stdlib.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\alloca.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\string.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\_locale.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\strings.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\sys\string.h \
+ c:\workspaces\embedded\tools\gcc-arm-none-eabi-10.3-2021.07\arm-none-eabi\include\math.h
